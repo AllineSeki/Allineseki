@@ -4,10 +4,10 @@
 - 📧 allinegoseki@gmail.com
 <div>
   <a href="https://github.com/AllineSeki">
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=Alline&show_icons=true&theme=radical"/>
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=AllineSeki&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/AllineSeki">
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allineseki&layout=compact"/>
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllineSeki&layout=compact"/>
   </a>
 </div>
 
